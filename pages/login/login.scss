@@ -1,0 +1,43 @@
+page-login {
+
+  .button-format{
+    .button-md{
+      margin: 2.0rem 0.4rem 0.4rem 0.4rem;
+      padding: 1.5em;
+      background-color: rgba(0,115,229, 0.25);
+      height: 6rem;
+      border-radius: 8px;
+      font-size: 1.6rem;
+      font-weight: bold;
+      font-family: -apple-system, "Helvetica Neue", "Roboto", sans-serif;
+    }
+
+  }
+
+  .scroll-content{
+    background-image: url('../assets/images/maravanthe.png');
+    background-size: cover;
+  }
+  .button-ios {
+    margin: 1rem 0.2rem;
+    padding: 1.5px 1.5em;
+    height: 2.8em;
+    font-size: 1.8rem;
+    background-color: rgba(62, 16, 225, 0.25);
+
+  }
+
+  img{
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-bottom: 30px;
+    margin-top: 45px;
+    border-radius: 50%;
+    height:160px;
+    width: 160px;
+  }
+
+}
+
+
+
